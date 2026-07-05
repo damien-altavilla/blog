@@ -41,7 +41,7 @@ const siteConfig: SiteConfig = {
     socialLinks: [
         {
             text: 'LinkedIn',
-            href: ''https://www.linkedin.com/in/damien-altavilla'
+            href: 'https://www.linkedin.com/in/damien-altavilla'
         },
         {
             text: 'Credly',
