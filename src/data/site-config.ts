@@ -7,7 +7,7 @@ const siteConfig: SiteConfig = {
         src: avatar,
         alt: 'Damien Altavilla'
     },
-    title: 'Damien Altavilla',
+    title: 'Welcome — I\'m Damien',
     subtitle: 'IT Support & Cloud Administration | CCNA · Azure · M365',
     description: 'Homelab projects, certification journeys and field notes on Azure, Microsoft 365 and networking, by Damien Altavilla.',
     image: {
@@ -20,13 +20,13 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Labs',
+            text: 'Projects',
             href: '/projects'
         },
         {
-            text: 'Blog',
+            text: 'Articles',
             href: '/blog'
-        },
+        }
     ],
     footerNavLinks: [
         {

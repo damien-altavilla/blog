@@ -16,12 +16,12 @@ const latestPosts = posts.slice(0, 4);
     {
         latestPosts?.length > 0 && (
             <div class="mb-16 sm:mb-24">
-                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Latest posts</h2>
+                <h2 class="mb-12 font-serif text-xl italic sm:mb-16 sm:text-2xl">Latest Articles</h2>
                 {latestPosts.map((post) => (
                     <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
                 ))}
                 <div class="mt-12 sm:mt-16">
-                    <Button href="/blog">View All Posts</Button>
+                    <Button href="/blog">View All Articles</Button>
                 </div>
             </div>
         )

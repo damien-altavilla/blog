@@ -7,7 +7,7 @@ seo:
 
 ## Damien Altavilla
 
-I'm a French IT professional based in Wrocław, Poland, working across Microsoft 365, Azure and networking in global banking environments — delivering bilingual support in English and French.
+I'm a French IT professional based in Wrocław, Poland, working across Microsoft 365, Azure and networking in global banking environments, delivering bilingual support in English and French.
 
 Certified **CCNA**, **Microsoft 365 Administrator Expert (MS-102)** and **Azure Administrator Associate (AZ-104)**, among others.
 
@@ -15,7 +15,7 @@ Certified **CCNA**, **Microsoft 365 Administrator Expert (MS-102)** and **Azure 
 
 My day-to-day work involves troubleshooting complex environments: network connectivity, VPN, Citrix, Microsoft 365 applications and mobile corporate apps, in fast-paced, business-critical settings.
 
-Outside of work, I'm deepening my skills toward systems and cloud administration. This site is where I write about Azure, Microsoft 365, networking and certification prep — and share what actually happens behind the tickets.
+Outside of work, I'm deepening my skills toward systems and cloud administration. This site is where I write about Azure, Microsoft 365, networking and certification prep, and share what actually happens behind the tickets.
 
 ## Certifications
 
