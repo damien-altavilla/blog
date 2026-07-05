@@ -19,14 +19,14 @@ This site is where I document the hands-on side of that work: home lab projects,
 
 ## Certifications
 
-- Cisco Certified Network Associate (CCNA)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft 365 Certified: Administrator Expert (MS-102)
-- Microsoft 365 Certified: Teams Administrator Associate (MS-700)
-- Microsoft 365 Certified: Fundamentals (MS-900)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- Cisco Certified Support Technician - Networking
+- [Microsoft 365 Certified: Administrator Expert (MS-102)](https://learn.microsoft.com/en-us/users/damien-altavilla/credentials/1d4c2a311dcc744f)
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/damien-altavilla/credentials/ba7cb7a59ca226d5)
+- [Microsoft 365 Certified: Teams Administrator Associate (MS-700)](https://learn.microsoft.com/en-us/users/damien-altavilla/credentials/fd29031e9e37cdcf)
+- [Microsoft 365 Certified: Fundamentals (MS-900)](https://learn.microsoft.com/en-us/users/damien-altavilla/credentials/d21927ba9ba590aa)
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/damien-altavilla/credentials/bad40d7a30128bc8)
+- [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/a597d363-3d22-48b9-89de-5e886fe9d1f0/public_url)
+- [Cisco Certified Support Technician - Networking (CCST)](https://www.credly.com/badges/f263d56b-0013-414e-afa2-25c2b62fffdf/public_url)
 
 ## Get in Touch
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/REPLACE_ME) or check out my projects on [GitHub](https://github.com/REPLACE_ME).
+Feel free to reach out via [email](mailto:damien.altavilla@hotmail.fr) or [LinkedIn](https://www.linkedin.com/in/damien-altavilla/).
