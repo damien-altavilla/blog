@@ -49,7 +49,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "Welcome to my blog, I'm an **IT professional** based in Poland, working across Microsoft 365, Azure and networking in global banking environments.\nCertified in **CCNA**, **Azure Administrator (AZ-104)**, and **Microsoft 365 Administrator (MS-102)**, I document the labs, certification prep, and technical problem-solving that shape my day-to-day work.\n\nThis site is where I share hands-on projects, what I learn along the way, and what actually happens behind the tickets.\n\nWant to connect? Find me on [LinkedIn](https://www.linkedin.com/in/damien-altavilla/).",
+        text: "Welcome to my blog! I'm Damien, a French IT professional based in Wrocław, Poland, passionate about cloud and networking.\n\nHere you'll find my personal projects and articles about Azure, Microsoft 365, networking, DNS and certification prep — real, hands-on stuff, including the mistakes I made along the way and how I fixed them.\n\nCurious about my background? Head over to the [About](/about) page.",
         actions: [
             {
                 text: 'Get in Touch',
