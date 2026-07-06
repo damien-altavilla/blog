@@ -2,20 +2,20 @@
 title: About
 seo:
   title: About Damien Altavilla
-  description: French IT professional in Wrocław specializing in Microsoft 365, Azure and networking.
+  description: French IT professional in Wrocław, passionate about cloud, networking and Microsoft technologies.
 ---
 
 ## Damien Altavilla
 
-I'm a French IT professional based in Wrocław, Poland, working across Microsoft 365, Azure and networking in global banking environments, delivering bilingual support in English and French.
+I'm a French IT professional based in Wrocław, Poland, passionate about cloud, networking and Microsoft technologies. I work in English and French, and I'm continuously deepening my skills toward systems and cloud administration.
 
 Certified **CCNA**, **Microsoft 365 Administrator Expert (MS-102)** and **Azure Administrator Associate (AZ-104)**, among others.
 
-## What I do
+## What I do here
 
-My day-to-day work involves troubleshooting complex environments: network connectivity, VPN, Citrix, Microsoft 365 applications and mobile corporate apps, in fast-paced, business-critical settings.
+This blog is my space to learn in the open. I build personal projects and write about the things I'm working with Azure, Microsoft 365, networking, DNS and certification prep including the mistakes I make along the way and how I fix them.
 
-Outside of work, I'm deepening my skills toward systems and cloud administration. This site is where I write about Azure, Microsoft 365, networking and certification prep, and share what actually happens behind the tickets.
+If it helped me level up, I write it down here, in the hope it helps someone else too.
 
 ## Certifications
 

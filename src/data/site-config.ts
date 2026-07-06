@@ -49,7 +49,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: "Welcome to my blog! I'm Damien, a French IT professional based in Wrocław, Poland, passionate about cloud and networking.\n\nHere you'll find my personal projects and articles about Azure, Microsoft 365, networking, DNS and certification prep — real, hands-on stuff, including the mistakes I made along the way and how I fixed them.\n\nCurious about my background? Head over to the [About](/about) page.",
+        text: "Welcome to my blog! I'm Damien, a French IT professional based in Wrocław, Poland, passionate about cloud and networking.\n\nHere you'll find my personal projects and articles about Azure, Microsoft 365, networking, DNS and certification prep real, hands-on stuff, including the mistakes I made along the way and how I fixed them.\n\nCurious about my background? Head over to the [About](/about) page.",
         actions: [
             {
                 text: 'Get in Touch',
