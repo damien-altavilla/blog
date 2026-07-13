@@ -67,6 +67,14 @@ This single change of approach completely hides my IP, adds automatic HTTPS, rem
 
 One last thing remained: keeping the tunnel running at all times. So I installed `cloudflared` as a Windows service. Unlike a scheduled task, a service runs continuously in the background, under the system account, and restarts on its own. My service is now reachable over HTTPS, from anywhere, without me touching anything.
 
+## Do not forget the login page
+
+The tunnel hides my IP and encrypts the traffic, but it does not change one simple fact: anyone who knows my domain can reach the login page of my service. That page is now the real front door, and it deserves the same level of attention as the rest.
+
+My rules are simple. The username has nothing to do with the domain: no "admin", no first name, just something long and unique, never used anywhere else. Same logic for the password: at least 20 characters, or better, a passphrase. A password manager makes this painless.
+
+If you want to go further, enable two-factor authentication (2FA) if your service supports it. And for the truly paranoid, Cloudflare can even require a client-side SSL certificate, so only your own devices can reach the page at all. That was more than I needed for now, but it is good to know the option exists.
+
 ## What this project taught me
 
 What started as a simple wish for remote access made me work with a lot of concrete concepts: dynamic DNS, APIs, Python scripting, tunnels, proxies, HTTPS certificates and a persistent Windows service.
